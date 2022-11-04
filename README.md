@@ -12,10 +12,10 @@ If you want to replicate how we organize the image, see [`preprocess-bccd.ipynb`
 ## Statistics
 | Label      |   Count |
 |:-----------|--------:|
-| neutrophil |     207 |
-| eosinophil |      88 |
-| lymphocyte |      33 |
-| monocyte   |      20 |
-| basophil   |       3 |
+| Neutrophil |     207 |
+| Eosinophil |      88 |
+| Lymphocyte |      33 |
+| Monocyte   |      20 |
+| Basophil   |       3 |
 
 Total: 351
